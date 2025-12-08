@@ -13,7 +13,7 @@ I enjoy working at the intersection of intelligent algorithms and efficient infr
 
 ## 🛠️ Tools & Technologies  
 - **Languages:** Python, C++, C, Java, JavaScript  
-- **Frameworks/Libraries:** Flask, Node.js, Express, React, PyTorch, TensorFlow, Rasa, Socket.IO, SBERT, Chart.js/other charting libs, O‑Llama, ROS  
+- **Frameworks/Libraries:** Flask, Node.js, Express,langchain, React, PyTorch, TensorFlow, Rasa, Socket.IO, SBERT, Chart.js/other charting libs, O‑Llama, ROS  
 - **Databases:** MySQL, PostgreSQL (pgvector, pg_trgm), MongoDB, Redis  
 - **DevOps & Other Tools:** Docker, Git, Render, JWT Auth, WebSocket, Clarifai API
 
