@@ -1,48 +1,33 @@
-# Hi, I'm Inferio 👋
+# Hi there, I'm Aniruth Narayanan S 👋
 
-## About Me
-AI & Backend Engineer passionate about building intelligent systems that solve real-world problems.  
-Specialized in machine learning integration, scalable backend architectures, and full-stack development.  
-Combining deep technical expertise with innovative problem-solving to create impactful software solutions.
+## 👤 Who am I?
+I'm an **Artificial Intelligence + Backend Software Engineer** passionate about building scalable AI systems and robust backend services.  
+I love developing high-impact projects and thrive on tackling challenging problems through creative solutions.  
+I enjoy working at the intersection of intelligent algorithms and efficient infrastructure.
 
-## 🛠️ Technical Skills
+## 💼 What I'm Working On
+- Developing cutting-edge AI-powered backend applications
+- Building interactive fullstack web applications
+- Contributing to open-source projects in AI and robotics
+- Designing scalable APIs and efficient data pipelines
 
-**Languages:** Python • C++  
-**Frameworks:** Flask • React  
-**Technologies:** Docker • Machine Learning • Databases  
-**Focus Areas:** Backend Development • AI/ML Integration • System Design
+## 🛠️ Tools & Technologies  
+- **Languages:** Python, C++, C, Java, JavaScript  
+- **Frameworks/Libraries:** Flask, Node.js, Express, React, PyTorch, TensorFlow, Rasa, Socket.IO, SBERT, Chart.js/other charting libs, O‑Llama, ROS  
+- **Databases:** MySQL, PostgreSQL (pgvector, pg_trgm), MongoDB, Redis  
+- **DevOps & Other Tools:** Docker, Git, Render, JWT Auth, WebSocket, Clarifai API
 
-## 💼 Experience
+## 👨‍💻 Experience
+- Built scalable REST APIs and microservices for production applications
+- Designed and deployed custom deep learning models for NLP and computer vision
+- Developed fullstack web and chat apps with real-time interactivity
+- Integrated robotics systems and sensors for automation
+- Automated deployment pipelines for fast, reproducible infrastructure setup
+- Collaborated in diverse teams on open-source AI, backend, and data engineering projects
 
-- Developed AI-powered applications integrating ML models with production backends
-- Built scalable microservices and RESTful APIs serving thousands of users
-- Designed and deployed containerized applications using Docker
-- Implemented full-stack solutions combining React frontends with Flask backends
+## 📮 How to Reach Me
+- **Email:** aniruthnarayanans@gmail.com
+- **LinkedIn:** [linkedin.com/in/inferio-2004](https://linkedin.com/in/inferio-2004)
 
-## 🚀 Featured Projects
-
-### 🧠 AI Psychologist Chatbot
-Intelligent conversational agent providing mental health support using NLP and machine learning
-
-### 💬 Real-Time Chat Application
-Full-stack chat platform with instant messaging, user authentication, and real-time updates
-
-### 🍳 Recipe Generator
-AI-powered recipe creation tool that generates custom recipes based on available ingredients
-
-### 💻 Online Compiler
-Web-based code execution environment supporting multiple programming languages
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inferio-2004&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inferio-2004&layout=compact&theme=radical)
-
-## 🔍 Open to Opportunities
-
-Currently seeking Software Engineering roles where I can leverage my expertise in AI/ML and backend development to build innovative solutions. Open to full-time positions and exciting collaborations!
-
----
-
-*Let's connect and build something amazing together!*
+## 🔎 Open to SWE Roles!
+I'm actively seeking Software Engineer opportunities, especially focused on AI/backend/fullstack development. Let's connect!
