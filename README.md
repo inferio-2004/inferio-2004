@@ -10,7 +10,7 @@ Building AI-driven backend systems, full-stack interactive applications, and sca
 
 ## 🛠️ Tools & Technologies  
 - **Languages:** Python, C++, C, Java, JavaScript  
-- **Frameworks/Libraries:** Flask, Node.js, Express,langchain, React, PyTorch, TensorFlow, Rasa, Socket.IO, SBERT, Chart.js/other charting libs, O‑Llama, ROS  
+- **Frameworks/Libraries:** Srping Core,SpringBoot,Flask, Node.js, Express,langchain, React, PyTorch, TensorFlow, Rasa, Socket.IO, SBERT, Chart.js/other charting libs, O‑Llama, ROS  
 - **Databases:** MySQL, PostgreSQL (pgvector, pg_trgm), MongoDB, Redis  
 - **DevOps & Other Tools:** Docker, Git, Render, JWT Auth, WebSocket, Clarifai API
 
